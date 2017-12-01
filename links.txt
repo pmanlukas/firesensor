@@ -1,0 +1,3 @@
+#run rasbian emulator
+https://azeria-labs.com/emulate-raspberry-pi-with-qemu/
+
