@@ -1,0 +1,15 @@
+# Mlab Mongo db data
+
+User: forest
+PW: forest123
+
+To connect using the mongo shell: 
+mongo ds042677.mlab.com:42677/testdblp -u <dbuser> -p <dbpassword> 
+
+To connect using a driver via the standard MongoDB URI (what's this?): 
+mongodb://<dbuser>:<dbpassword>@ds042677.mlab.com:42677/testdblp
+
+# Access nodered 
+
+open in browser: 104.45.5.202:1880 
+ 
