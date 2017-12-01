@@ -1,3 +1,5 @@
 #run rasbian emulator
 https://azeria-labs.com/emulate-raspberry-pi-with-qemu/
 
+#create a raspberry dashboard 
+http://noderedguide.com/lecture-7-dashboards-and-ui-techniques-for-node-red/
